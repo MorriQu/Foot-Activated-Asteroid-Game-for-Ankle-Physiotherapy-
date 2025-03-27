@@ -51,7 +51,7 @@ You can install the dependencies with: pip install pygame
    python game.py
    ```
    ```bash
-   python game_Jason.py
+   python FlexController.py
    ```
    - This will start the Pygame window and load the main menu.
 
