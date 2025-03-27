@@ -46,11 +46,10 @@ You can install the dependencies with: pip install pygame
 
 1. **Clone the Repository**  
 
-
 2. **Launch the Game**  
-  
+   ```bash
    python main_game.py
-   
+   ```
    - This will start the Pygame window and load the main menu.
 
 3. **Navigation**  
@@ -67,3 +66,4 @@ You can install the dependencies with: pip install pygame
 ## Contributing
 
 Contributions are welcome! Feel free to open issues for bugs or suggestions, and submit pull requests for improvements.
+
