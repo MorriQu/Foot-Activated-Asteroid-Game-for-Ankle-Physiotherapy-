@@ -28,7 +28,7 @@ This repository contains the Asteroid Blaster game built using Python and the Py
    - **Level 3**: Shooting mechanics and more complex asteroid behaviors—advanced play.
 
 4. **Calibration System**  
-   - Step-by-step instructions guide users to set their neutral, left-max, and right-max ankle positions.  
+   - Step-by-step instructions guide users to set their up-max, down-max, left-max, and right-max ankle positions.  
    - Saves calibration data so that each session tailors control sensitivity to individual user needs.
 
 5. **User-Friendly Design**  
