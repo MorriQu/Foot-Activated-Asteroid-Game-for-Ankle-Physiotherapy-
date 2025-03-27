@@ -48,7 +48,10 @@ You can install the dependencies with: pip install pygame
 
 2. **Launch the Game**  
    ```bash
-   python main_game.py
+   python game.py
+   ```
+   ```bash
+   python game_Jason.py
    ```
    - This will start the Pygame window and load the main menu.
 
